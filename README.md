@@ -26,6 +26,6 @@ Using Heroku free tier services we can easily deploy our model for demonstration
 
 Interface:-
 
-![demo](demo.png)
+![demo](Demo.png)
 
 
