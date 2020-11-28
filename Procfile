@@ -1,1 +1,1 @@
-web: cd .. && uvicorn app:app
+web: python src/app.py
