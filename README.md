@@ -12,24 +12,24 @@ Here I am using Deep Learning models for Image processing and classification tas
 
 ## Workflow:-
 
-Normal workflow of the project is We have to train our Deep learning model using as much X-ray data as possible so that it can learn to classify them more robustly
-If we can automate the process of traning and deployment part of this then this will work as expected.
+Normal workflow of the project is We have to train our Deep learning model using as much X-ray data as possible so that it can learn to classify them more robustly 
+If we can automate the process of traning and deployment part of this then this will work as expected. 
 
 The components i have used in this project are:-
 
-VGG16 model for image classification
-Kears with tensorflow backend for efficient computation and prediction.
+VGG16 model for image classification 
+Kears with tensorflow backend for efficient computation and prediction. 
 
 ## Steps to use this API:-
 
-clone this repo into your local machine
+clone this repo into your local machine 
 install requirements using pip command 
-theh simply run app.py file from src directory
+theh simply run app.py file from src directory 
 
 ## Technologies used:-
-Deep Learning for Image classification
-FastAPI framework for serving the model
-Web Technologies (html, css, JS) for simple web interface
+Deep Learning for Image classification 
+FastAPI framework for serving the model 
+Web Technologies (html, css, JS) for simple web interface 
 
 ## Interface flow:-
 # Home Page:-
