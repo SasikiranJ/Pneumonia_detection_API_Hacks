@@ -20,9 +20,11 @@ The components i have used in this project are:-
 VGG16 model for image classification
 Kears with tensorflow backend for efficient computation and prediction.
 
-Deployment :-
+Steps to use this API:-
 
-Using Heroku free tier services we can easily deploy our model for demonstration.
+clone this repo into your local machine
+install requirements using pip command 
+theh simply run app.py file from src directory
 
 Interface flow:-
 # Home Page:-
