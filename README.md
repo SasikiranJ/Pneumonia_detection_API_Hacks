@@ -26,6 +26,11 @@ clone this repo into your local machine
 install requirements using pip command 
 theh simply run app.py file from src directory
 
+## Technologies used:-
+Deep Learning for Image classification
+FastAPI framework for serving the model
+Web Technologies (html, css, JS) for simple web interface
+
 ## Interface flow:-
 # Home Page:-
 ![demo](Demo.png)
