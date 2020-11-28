@@ -24,8 +24,11 @@ Deployment :-
 
 Using Heroku free tier services we can easily deploy our model for demonstration.
 
-Interface:-
-
+Interface flow:-
+# Home Page:-
 ![demo](Demo.png)
+
+# After Submitting X-ray image
+![after](after_prediction.png)
 
 
