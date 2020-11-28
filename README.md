@@ -20,3 +20,7 @@ The components i have used in this project are:-
 VGG16 model for image classification
 Kears with tensorflow backend for efficient computation and prediction.
 
+Deployment :-
+
+Using Heroku free tier services we can easily deploy our model for demonstration.
+
