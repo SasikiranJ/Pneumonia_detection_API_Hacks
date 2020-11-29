@@ -20,22 +20,26 @@ The components i have used in this project are:-
 VGG16 model for image classification  
 Kears with tensorflow backend for efficient computation and prediction.   
 
-## Steps to use this API:-
+## Steps to use this API using docker:-
 
-clone this repo into your local machine  
-install requirements using pip command  
-theh simply run app.py file from src directory  
+1). Simplt clone/download this repo into your local machine
+2). With the help of docker you can easily access the application
+    After downloading repo:
+    1) docker build --tag detect .  (. represents current directory make sure you are in repo folder)
+    2) docker run -publish 8000:8000 detect
+    3) open 0.0.0.0:8000/prediction
 
 ## Technologies used:-
 Deep Learning for Image classification  
 FastAPI framework for serving the model  
 Web Technologies (html, css, JS) for simple web interface  
+Docker for Deployment and Portable API service
 
 ## Interface flow:-
 # Home Page:-
-![demo](Demo.png)
+![demo](img_readme/Demo.png)
 
 # After Submitting X-ray image
-![after](after_prediction.png)
+![after](img_readme/after_prediction.png)
 
 

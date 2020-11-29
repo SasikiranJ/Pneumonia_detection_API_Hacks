@@ -79,5 +79,3 @@ async def prediction_route(request: Request, sample: UploadFile = File(...)):
 
     return templates.TemplateResponse("index.html", context={'request': request, 'result': prediction})
 
-if __name__ == '__main__':
-    uvicorn.run(app, host="127.0.0.1", port=8000)
