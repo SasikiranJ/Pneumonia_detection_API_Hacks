@@ -22,12 +22,12 @@ Kears with tensorflow backend for efficient computation and prediction.
 
 ## Steps to use this API using docker:-
 
-1). Simplt clone/download this repo into your local machine
-2). With the help of docker you can easily access the application
-    After downloading repo:
-    1) docker build --tag detect .  (. represents current directory make sure you are in repo folder)
-    2) docker run -publish 8000:8000 detect
-    3) open 0.0.0.0:8000/prediction
+1). Simplt clone/download this repo into your local machine  
+2). With the help of docker you can easily access the application  
+    After downloading repo:  
+    1) docker build --tag detect .  (. represents current directory make sure you are in repo folder)  
+    2) docker run -publish 8000:8000 detect  
+    3) open 0.0.0.0:8000/prediction  
 
 ## Technologies used:-
 Deep Learning for Image classification  
