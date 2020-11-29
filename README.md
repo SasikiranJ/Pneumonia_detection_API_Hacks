@@ -6,7 +6,7 @@ Building Rest API for Disease Detection using Deep Learning for classification a
 ## Problem:-
 
 Traditional diagnosis system for pneumonia detection is very slow process. There should be specialist doctor for diagnosing X-ray diagnosis.  
-But Using this Web service one can simply upload their X-ray and get result within seconds.
+But Using Deep Learning model as a API one can simply upload their X-ray and get result within seconds.
 
 Here I am using Deep Learning models for Image processing and classification tasks which are very sophisticated in distinguish between normal and affeacted X-ray by analysing image features and upto very minute detail in image.
 
