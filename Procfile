@@ -1,1 +1,1 @@
-web: uvicorn src/app:app
+web: sh -c 'cd src && uvicorn app:app'
