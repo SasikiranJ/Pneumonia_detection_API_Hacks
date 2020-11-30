@@ -22,7 +22,7 @@ Kears with tensorflow backend for efficient computation and prediction.
 
 ## Steps to use this API using docker:-
 
-1). Simplt clone/download this repo into your local machine  
+1). Simply clone/download this repo into your local machine  
 2). With the help of docker you can easily access the application  
     After downloading repo:  
     1) docker build --tag detect .  (. represents current directory make sure you are in repo folder)  
